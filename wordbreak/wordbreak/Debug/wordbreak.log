@@ -1,0 +1,6 @@
+﻿  wordbreak.cpp
+c:\users\cyang\source\repos\wordbreak\wordbreak\wordbreak.cpp(19): warning C4018: '>': signed/unsigned mismatch
+c:\users\cyang\source\repos\wordbreak\wordbreak\wordbreak.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\cyang\source\repos\wordbreak\wordbreak\wordbreak.cpp(96): warning C4018: '>': signed/unsigned mismatch
+c:\users\cyang\source\repos\wordbreak\wordbreak\wordbreak.cpp(103): warning C4018: '<': signed/unsigned mismatch
+  wordbreak.vcxproj -> C:\Users\cyang\source\repos\wordbreak\Debug\wordbreak.exe
