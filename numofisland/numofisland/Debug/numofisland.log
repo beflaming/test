@@ -1,4 +1,0 @@
-﻿  numofisland.cpp
-c:\users\cyang\source\repos\numofisland\numofisland\numofisland.cpp(31): warning C4018: '>=': signed/unsigned mismatch
-c:\users\cyang\source\repos\numofisland\numofisland\numofisland.cpp(32): warning C4018: '>=': signed/unsigned mismatch
-  numofisland.vcxproj -> C:\Users\cyang\source\repos\numofisland\Debug\numofisland.exe

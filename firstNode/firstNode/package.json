@@ -1,9 +1,0 @@
-{
-  "name": "first-node",
-  "version": "0.0.0",
-  "description": "firstNode",
-  "main": "app.js",
-  "author": {
-    "name": "cyang"
-  }
-}
